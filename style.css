@@ -17,7 +17,7 @@ body{
 }
 
 #minha_foto{
-    margin: 100px 20px 0px;
+    margin: 110px 20px 0px;
     width: 250px;
 }
 
@@ -26,20 +26,22 @@ body{
 }
 
 #licoes_aprendidas, #licoes_a_aprender{
-    margin: 20px 40px 0px;
+    margin: 10px 40px 0px;
     display: inline-block;
 }
 
-#aprendizado{
-    text-align: center;
-}
-#aprendizado_titulo{
-    margin: 20px 20px 20px;
+.aprendizado-descricao{
+    display: flex;
+    width: 100%;
 }
 
-#aprendizado_texto{
-    margin: 0px 20px 60px;
+#aprendizado_titulo, #descricao_titulo{
+    margin: 20px 20px 0px;
+}
+
+#aprendizado_texto, #descricao_texto{
     text-align: justify;
+    margin: 10px 20px 60px;
 }
 
 #rodape{
