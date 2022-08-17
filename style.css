@@ -9,13 +9,16 @@ body{
 }
 
 #cabecalho{
-    margin-top: 0px;
     background-color: aquamarine;
-}
-
-#titulo{
-    text-align: center;
+    position: fixed;
+    top: 0;
     padding: 20px;
+    width: 100%;
+    text-align: center;
 }
 
-
+#minha_foto{
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 250px;
+}
