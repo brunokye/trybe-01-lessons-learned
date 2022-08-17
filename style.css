@@ -16,13 +16,26 @@ body{
     text-align: center;
 }
 
+.foto_licoes{
+    display: flex;
+    margin: 110px 0px 0px;
+    align-items: center;
+}
+
+.posiciona_foto_licoes{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #minha_foto{
-    margin: 110px 20px 0px;
     width: 250px;
+    border-radius: 50%;
+    margin: 0px 20px 0px;
 }
 
 #licoes_titulo{ 
-    margin: 20px 100px 0px;
+    margin: 0px 100px 0px;
 }
 
 #licoes_aprendidas, #licoes_a_aprender{
