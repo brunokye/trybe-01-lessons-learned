@@ -1,8 +1,21 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 body{
     background-color: rgb(253, 251, 251);
 }
+
+#cabecalho{
+    margin-top: 0px;
+    background-color: aquamarine;
+}
+
+#titulo{
+    text-align: center;
+    padding: 20px;
+}
+
+
