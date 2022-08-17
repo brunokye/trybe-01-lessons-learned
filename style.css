@@ -1,71 +1,72 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+        margin: 0;
+        padding: 0;
 }
 
-body{
-    background-color: rgb(253, 251, 251);
+body {
+        background-color: rgb(253, 251, 251);
 }
 
-#cabecalho{
-    background-color: rgb(230,230,250);
-    position: fixed;
-    top: 0;
-    padding: 20px;
-    width: 100%;
-    text-align: center;
+#cabecalho {
+        background-color: lavender;
+        position: fixed;
+        top: 0;
+        padding: 20px;
+        width: 100%;
+        text-align: center;
 }
 
-.foto_licoes{
-    display: flex;
-    margin: 110px 0px 0px;
-    align-items: center;
+.foto_licoes {
+        display: flex;
+        margin-top: 110px;
+        align-items: center;
 }
 
-.posiciona_foto_licoes{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
+.posiciona_foto_licoes {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
 }
 
-#minha_foto{
-    width: 250px;
-    border-radius: 50%;
-    margin: 0px 20px 0px;
+#minha_foto {
+        width: 250px;
+        border-radius: 50%;
+        margin-right: 20px;
 }
 
-#licoes_titulo{ 
-    margin: 0px 100px 0px;
+#licoes_titulo { 
+        margin-left: 100px
 }
 
-#licoes_aprendidas, #licoes_a_aprender{
-    margin: 10px 40px 0px;
-    display: inline-block;
+#licoes_aprendidas, #licoes_a_aprender {
+        margin: 10px 40px;
+        display: inline-block;
 }
 
-.aprendizado-descricao{
-    display: flex;
-    width: 100%;
+.aprendizado-descricao {
+        display: flex;
+        width: 100%;
 }
 
-#aprendizado_titulo, #descricao_titulo{
-    margin: 20px 20px 0px;
+#aprendizado_titulo, #descricao_titulo {
+        margin-top: 20px;
+        margin-left: 20px;
 }
 
-#aprendizado_texto, #descricao_texto{
-    text-align: justify;
-    margin: 10px 20px 60px;
+#aprendizado_texto, #descricao_texto {
+        text-align: justify;
+        margin: 10px 20px 60px;
 }
 
-#rodape{
-    background-color: rgb(230,230,250);
-    position: fixed;
-    bottom: 0;
-    padding: 10px 20px;
-    width: 100%;
-    text-align: center;
+#rodape {
+        background-color: lavender;
+        position: fixed;
+        bottom: 0;
+        padding: 10px 20px;
+        width: 100%;
+        text-align: center;
 }
 
-a{
-    text-decoration: none;
+a {
+        text-decoration: none;
 }
