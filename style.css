@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
 }
 
 body{
@@ -29,6 +28,15 @@ h2{
 #licoes_aprendidas, #licoes_a_aprender{
     margin: 20px 40px 0px;
     display: inline-block;
+}
+
+#nova_aba{
+    margin-top: 40px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
 }
 
 #rodape{
