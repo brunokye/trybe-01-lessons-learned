@@ -30,3 +30,9 @@ h2{
     margin: 20px 40px 0px;
     display: inline-block;
 }
+
+#rodape{
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+}
