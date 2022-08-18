@@ -62,7 +62,18 @@ body {
 
 #aprendizado_texto , #descricao_texto {
     text-align: justify;
-    margin: 10px 20px 60px;
+    margin: 10px 20px;
+}
+
+table , th , td {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
 }
 
 #rodape {
