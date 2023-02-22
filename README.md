@@ -5,7 +5,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 ## Projeto
 
-![App Screenshot](https://i.imgur.com/GsDY6XE.png)
+![Print do Projeto](https://i.imgur.com/GsDY6XE.png)
 
 ## Executar Localmente
 
